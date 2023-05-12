@@ -1,0 +1,5 @@
+export PYTHONUNBUFFERED=1;
+export DASHBOARD_FILE_PATH=/root/tuannm/AICardio-Server/Stat_Dashboard/src/dashboard.json
+export ANNOTATION_JSON_PATH=/root/tuannm/dicom-server/data/json_data
+export ROOT_DICOM_MP4=/root/tuannm/data_representation/train
+export SERVER_API_VERIFY=https://efb3f03d.ngrok.io/api/v1/verify_dicom_annotation

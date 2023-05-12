@@ -1,0 +1,4214 @@
+{
+  "cases": [
+    {
+      "ID": "1",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Vingmed Ultrasound",
+      "PatientName": "Neven^Ernst",
+      "NumTotalDicom": 54,
+      "NumAnnotatedDicom": 0,
+      "NumAnnotatedFrame": 0,
+      "NumTotalFrame": 243,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "2",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Vingmed Ultrasound",
+      "PatientName": "Hilger^Johannes",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 0,
+      "NumAnnotatedFrame": 0,
+      "NumTotalFrame": 34,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "3",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Vingmed Ultrasound\u0000",
+      "PatientName": "Kostadinov^Janko",
+      "NumTotalDicom": 41,
+      "NumAnnotatedDicom": 0,
+      "NumAnnotatedFrame": 0,
+      "NumTotalFrame": 30,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "4",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Vingmed Ultrasound\u0000",
+      "PatientName": "Mehlers-Wichart^Gabriele",
+      "NumTotalDicom": 42,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 11,
+      "NumTotalFrame": 680,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "5",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Vingmed Ultrasound",
+      "PatientName": "Celik^Melek",
+      "NumTotalDicom": 36,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 10,
+      "NumTotalFrame": 891,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "6",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Vingmed Ultrasound",
+      "PatientName": "Cremer^Theo",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 36,
+      "NumTotalFrame": 295,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "7",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "PHILIPS Healthcare",
+      "PatientName": "Stxe4mpfli^Gudru",
+      "NumTotalDicom": 41,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 19,
+      "NumTotalFrame": 1312,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "8",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Heinemann^Gisela",
+      "NumTotalDicom": 16,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 296,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "9",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Schnatz^Wilhelm",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 555,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "10",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Sentuerk^Cevat",
+      "NumTotalDicom": 20,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 560,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "11",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Axdfelborn^Herman",
+      "NumTotalDicom": 11,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 322,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "12",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Nerka^Waldemar",
+      "NumTotalDicom": 20,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 405,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "13",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Axdfelborn^Herman",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 675,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "14",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Laupichler^Dr. Ekkehart",
+      "NumTotalDicom": 34,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 11,
+      "NumTotalFrame": 749,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "15",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Stoffel^Heinz",
+      "NumTotalDicom": 25,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 543,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "16",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Steinhausen^Helga",
+      "NumTotalDicom": 37,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 10,
+      "NumTotalFrame": 808,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "17",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Cremer^Theo",
+      "NumTotalDicom": 24,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 432,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "18",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Stern^Anna-Margarete",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 334,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "19",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Bielert^Matthias",
+      "NumTotalDicom": 20,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 407,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "20",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "GE Healthcare Vivid E9",
+      "PatientName": "Schluetter^Matthias",
+      "NumTotalDicom": 26,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 34,
+      "NumTotalFrame": 944,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "21",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln\u0000",
+      "PatientName": "WS 5^Dr. Peter",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 33,
+      "NumTotalFrame": 624,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "22",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln\u0000",
+      "PatientName": "WS_3 RCA Infarkt Verl Stress^FEH_Annegret",
+      "NumTotalDicom": 35,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 912,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "23",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Wingensiefen^Christa",
+      "NumTotalDicom": 30,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 328,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "24",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "WS 5^Dr. Peter",
+      "NumTotalDicom": 44,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 963,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "25",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Helmes^Wera",
+      "NumTotalDicom": 39,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 383,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "26",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln\u0000",
+      "PatientName": "WS 5^Dr. Peter",
+      "NumTotalDicom": 10,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 237,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "27",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St.Vinzenz Hospital Köln",
+      "PatientName": "Nettesheim^Herbert",
+      "NumTotalDicom": 17,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 16,
+      "NumTotalFrame": 610,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "28",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Carrieri^Rosanna",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 4,
+      "NumTotalFrame": 212,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "29",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St.Vinzenz Hospital Köln",
+      "PatientName": "Bungartz^Eduard",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 957,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "30",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Philipps^Heinrich",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 27,
+      "NumTotalFrame": 410,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "31",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Dietz^Werner",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 40,
+      "NumTotalFrame": 288,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "32",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Herzig^Dirk",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 16,
+      "NumTotalFrame": 433,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "33",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Loeffeler^Martha-Frieda",
+      "NumTotalDicom": 33,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 691,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "34",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Hilger^Johannes",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 11,
+      "NumTotalFrame": 245,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "35",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Blumenhofen^Hiltrud",
+      "NumTotalDicom": 25,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 31,
+      "NumTotalFrame": 377,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "36",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Sependieva^Kstena",
+      "NumTotalDicom": 11,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 281,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "37",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Nerka^Waldemar",
+      "NumTotalDicom": 27,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 315,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "38",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Steinhausen^Helga",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 460,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "39",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Hoppe^Andrea",
+      "NumTotalDicom": 37,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 679,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "40",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Mueller^Waltraud",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 38,
+      "NumTotalFrame": 428,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "41",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Hennes^Helmut",
+      "NumTotalDicom": 21,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 21,
+      "NumTotalFrame": 382,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "42",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Moechel^Klaus",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 22,
+      "NumTotalFrame": 386,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "43",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Celik^Hueseyin",
+      "NumTotalDicom": 36,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 587,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "44",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Floeren^Manfred",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 645,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "45",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Curtius^Oliver",
+      "NumTotalDicom": 31,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 619,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "46",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Welz^Hubert",
+      "NumTotalDicom": 57,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 732,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "47",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Carpentieri^Carmela",
+      "NumTotalDicom": 21,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 255,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "48",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Kuepper^Hanny",
+      "NumTotalDicom": 30,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 646,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "49",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Dunker^Guenter",
+      "NumTotalDicom": 26,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 427,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "50",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Buesgen^Peter",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 386,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "51",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Goerlitz^Birgit",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 326,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "52",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Becker-Franzen^Gisela",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 33,
+      "NumTotalFrame": 344,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "53",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Rind^Werner",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 457,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "54",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Vogeley^Maria",
+      "NumTotalDicom": 59,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 1352,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "55",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Willerscheid^Bartholomxe4u",
+      "NumTotalDicom": 46,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 830,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "56",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Soro^Guiseppe",
+      "NumTotalDicom": 31,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 619,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "57",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Oehler^Uwe",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 24,
+      "NumTotalFrame": 289,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "58",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Dunker^Guenter",
+      "NumTotalDicom": 14,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 409,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "59",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Hennes^Helmut",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 285,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "60",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Schloemer^Erika",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 210,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "61",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Kieven^Heinz",
+      "NumTotalDicom": 17,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 16,
+      "NumTotalFrame": 451,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "62",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Bortel^Marianne",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 323,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "63",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Behrens^Friedrich",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 738,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "64",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Hoffmann^Werner",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 37,
+      "NumTotalFrame": 338,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "65",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Schunck^Rainer",
+      "NumTotalDicom": 33,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 315,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "66",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Brux^Hermann",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 26,
+      "NumTotalFrame": 377,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "67",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Langbauer^Herbert",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 368,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "68",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Perkovic^Nicola",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 309,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "69",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Mxfcller^Mariann",
+      "NumTotalDicom": 49,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 922,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "70",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Ruckas^Peter",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 418,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "71",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Twarock-Bergt^Brunhild",
+      "NumTotalDicom": 24,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 308,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "72",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital IMC",
+      "PatientName": "Helmes^Wera",
+      "NumTotalDicom": 9,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 232,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "73",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Eckert^Gerda",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 683,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "74",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Huether^Hans",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 377,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "75",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Bardenheuer^Frank",
+      "NumTotalDicom": 8,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 180,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "76",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Hoemig^Karl-Heinz",
+      "NumTotalDicom": 20,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 355,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "77",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Celik^Hueseyin",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 16,
+      "NumTotalFrame": 329,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "78",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Seith^Michael",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 286,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "79",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Schulze^Walter",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 359,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "LABEL": 1
+      }
+    },
+    {
+      "ID": "80",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Schweinsberg^Friedrich",
+      "NumTotalDicom": 30,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 30,
+      "NumTotalFrame": 685,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 2,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "81",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Knipp^Helga",
+      "NumTotalDicom": 25,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 395,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "82",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Tabib^Faouzi",
+      "NumTotalDicom": 52,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 10,
+      "NumTotalFrame": 1076,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "83",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Goerlitz^Birgit",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 21,
+      "NumTotalFrame": 413,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "84",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Althof-Berten^Anne",
+      "NumTotalDicom": 42,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 28,
+      "NumTotalFrame": 433,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "85",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Becker-Franzen^Gisela",
+      "NumTotalDicom": 25,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 366,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "86",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Klein^Udo",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 456,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "LABEL": 2
+      }
+    },
+    {
+      "ID": "87",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Gofman^Igor",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 32,
+      "NumTotalFrame": 302,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "88",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Klein^Udo",
+      "NumTotalDicom": 59,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 1111,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "89",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Hasselhuhn^Manfred",
+      "NumTotalDicom": 24,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 35,
+      "NumTotalFrame": 551,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "90",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Gimpl^Klaus",
+      "NumTotalDicom": 53,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 16,
+      "NumTotalFrame": 690,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "91",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Schuettler^Ulrich",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 297,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "92",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Hansmann^Gertrud",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 278,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "93",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Rheindorf^Karl-Heinz",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 387,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "LABEL": 1
+      }
+    },
+    {
+      "ID": "94",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Doehring^Klaus-Dieter",
+      "NumTotalDicom": 33,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 16,
+      "NumTotalFrame": 872,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "95",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Wego^Gertrud",
+      "NumTotalDicom": 27,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 357,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "96",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Doerr^Roland",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 281,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "97",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Schuettler^Ulrich",
+      "NumTotalDicom": 27,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 383,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "98",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Oezguel^Senguel",
+      "NumTotalDicom": 24,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 16,
+      "NumTotalFrame": 391,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "LABEL": 2
+      }
+    },
+    {
+      "ID": "99",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Gerken^Ronald",
+      "NumTotalDicom": 5,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 149,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "LABEL": 1
+      }
+    },
+    {
+      "ID": "100",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Gomes Vieira^Abel",
+      "NumTotalDicom": 49,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 1201,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "101",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Yilmaz^Tahir",
+      "NumTotalDicom": 20,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 408,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "102",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Twarock-Bergt^Brunhild",
+      "NumTotalDicom": 26,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 21,
+      "NumTotalFrame": 398,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "103",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Stieber^Hubert",
+      "NumTotalDicom": 10,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 230,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "104",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Esser^Elisabeth",
+      "NumTotalDicom": 16,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 15,
+      "NumTotalFrame": 378,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "105",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Lamm^Guenter",
+      "NumTotalDicom": 27,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 440,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "106",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Rind^Werner",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 40,
+      "NumTotalFrame": 308,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "107",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Gerken^Ronald",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 467,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "108",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Oezguel^Senguel",
+      "NumTotalDicom": 21,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 433,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "109",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Paetzold^Gisela",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 21,
+      "NumTotalFrame": 487,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "110",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Welz^Hubert",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 15,
+      "NumTotalFrame": 584,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "111",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Gauf^Evald",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 381,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "112",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Pelzer^Karl-Heinz",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 27,
+      "NumTotalFrame": 387,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "113",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Dietz^Werner",
+      "NumTotalDicom": 22,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 23,
+      "NumTotalFrame": 337,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "114",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Yazici^Sabit",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 458,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "115",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz - Hospital Köln",
+      "PatientName": "Nettesheim^Herbert",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 15,
+      "NumTotalFrame": 375,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "116",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Esser^Elisabeth",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 20,
+      "NumTotalFrame": 390,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "117",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Wilhelmy^Hans",
+      "NumTotalDicom": 27,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 486,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "118",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vivzenz - Hospital",
+      "PatientName": "Twarock-Bergt^Brunhild",
+      "NumTotalDicom": 24,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 325,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "119",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH VIET NAM",
+      "PatientName": "NGUYEN VAN TUNG 67T^^^^",
+      "NumTotalDicom": 46,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 1799,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "120",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH VIET NAM",
+      "PatientName": "HF TRAN HUU SINH 73T^^^^",
+      "NumTotalDicom": 16,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 64,
+      "NumTotalFrame": 458,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "121",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "NGUYEN VAN HOP ",
+      "NumTotalDicom": 27,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 417,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "LABEL": 1
+      }
+    },
+    {
+      "ID": "122",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH VIET NAM",
+      "PatientName": "DANG VAN NHAN 64T^^^^",
+      "NumTotalDicom": 35,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 29,
+      "NumTotalFrame": 1525,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "123",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH VIET NAM",
+      "PatientName": "MINH64 HSTC^^^^",
+      "NumTotalDicom": 14,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 26,
+      "NumTotalFrame": 548,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "124",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH VIET NAM",
+      "PatientName": "HUAN 59T^^^^",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 42,
+      "NumTotalFrame": 453,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "125",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "nguyen thanh giac 77-DOBU",
+      "NumTotalDicom": 58,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 22,
+      "NumTotalFrame": 1190,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1,
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "126",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "TRAN T BINH 68T",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 319,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "127",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "LE XUAN THUC 59-3",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 471,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "4C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "128",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "nguyen thi hanh stress",
+      "NumTotalDicom": 28,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 11,
+      "NumTotalFrame": 1624,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "129",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "LE DUC VAN 82-1",
+      "NumTotalDicom": 26,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 451,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "130",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "",
+      "NumTotalDicom": 47,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 586,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "131",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "PHAM THI VAN 61-2",
+      "NumTotalDicom": 36,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 425,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "132",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "NGUYEN VAN TAN 69-1",
+      "NumTotalDicom": 29,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 21,
+      "NumTotalFrame": 314,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "133",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "",
+      "NumTotalDicom": 34,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 392,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "134",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "NGUYEN THANH VUONG 58-1",
+      "NumTotalDicom": 35,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 561,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "135",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "NGUYEN THANH VUONG 58-2",
+      "NumTotalDicom": 38,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 451,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "136",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "hoang manh chuyen 54 stress",
+      "NumTotalDicom": 31,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 3,
+      "NumTotalFrame": 558,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "137",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 507,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "138",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "",
+      "NumTotalDicom": 50,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 1023,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "139",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH BM",
+      "PatientName": "PHAM THI HOI 60T^^^^",
+      "NumTotalDicom": 16,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 279,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "140",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH VIET NAM",
+      "PatientName": "LUONG DUC HANH^^^^",
+      "NumTotalDicom": 50,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 23,
+      "NumTotalFrame": 1498,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "141",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "HAI 46T",
+      "NumTotalDicom": 31,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 305,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "142",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "ICH 73T",
+      "NumTotalDicom": 21,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 21,
+      "NumTotalFrame": 260,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 2
+      }
+    },
+    {
+      "ID": "143",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "IF HAI 42T",
+      "NumTotalDicom": 60,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 28,
+      "NumTotalFrame": 939,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "144",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI\u0000",
+      "PatientName": "BAU 67T",
+      "NumTotalDicom": 39,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 15,
+      "NumTotalFrame": 342,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "145",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "IF CUONG 51T",
+      "NumTotalDicom": 42,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 41,
+      "NumTotalFrame": 515,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "146",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "IF NINH 72T",
+      "NumTotalDicom": 31,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 14,
+      "NumTotalFrame": 255,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "147",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "HA 35T",
+      "NumTotalDicom": 56,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 713,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 2
+      }
+    },
+    {
+      "ID": "148",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "LONG 71T",
+      "NumTotalDicom": 38,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 26,
+      "NumTotalFrame": 406,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "149",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "GIANG 65T",
+      "NumTotalDicom": 26,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 27,
+      "NumTotalFrame": 548,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "150",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "HUNG 57T",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 27,
+      "NumTotalFrame": 372,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "151",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI",
+      "PatientName": "TIEN 64T",
+      "NumTotalDicom": 17,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 319,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "152",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI.HOAN16. VU28Y^^^^",
+      "NumTotalDicom": 34,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 418,
+      "NumTotalFrame": 2613,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "153",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI.HOAN40. LOAN51Y^^^^",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 37,
+      "NumTotalFrame": 2198,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "154",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI.201119.HUONG58Y^^^^",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 11,
+      "NumTotalFrame": 1003,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "155",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI.201119.THINH49Y^^^^",
+      "NumTotalDicom": 30,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 1456,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "156",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI.201119.LOAN62Y^^^^",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 1782,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "157",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI261119 HOANG THI NU 43T^^^^",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 10,
+      "NumTotalFrame": 1070,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "158",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI.271119.NHUNG 47Y^^^^",
+      "NumTotalDicom": 30,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 2521,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "159",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI.111219.HOA43Y^^^^",
+      "NumTotalDicom": 32,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 1835,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "160",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "VIEN TIM MACH - BV BACH MAI CS 2",
+      "PatientName": "HUNG62T^^^^",
+      "NumTotalDicom": 27,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 23,
+      "NumTotalFrame": 722,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "PTS_S": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "161",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI QUACH THI HUYEN 42T^^^^",
+      "NumTotalDicom": 13,
+      "NumAnnotatedDicom": 4,
+      "NumAnnotatedFrame": 61,
+      "NumTotalFrame": 730,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "162",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI NGUYEN THI LY 59T^^^^",
+      "NumTotalDicom": 14,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 82,
+      "NumTotalFrame": 828,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 2,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "163",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI DUONG TIEN BACH 43T^^^^",
+      "NumTotalDicom": 14,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 86,
+      "NumTotalFrame": 910,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 2,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "164",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI DO THI SU 67T^^^^",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 6,
+      "NumAnnotatedFrame": 92,
+      "NumTotalFrame": 871,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 2,
+        "4C": 2
+      }
+    },
+    {
+      "ID": "165",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI TRAN VAN CHAI 75T^^^^",
+      "NumTotalDicom": 16,
+      "NumAnnotatedDicom": 7,
+      "NumAnnotatedFrame": 137,
+      "NumTotalFrame": 1177,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 3,
+        "4C": 2
+      }
+    },
+    {
+      "ID": "166",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI NG THI THU HUYEN 30T^^^^",
+      "NumTotalDicom": 13,
+      "NumAnnotatedDicom": 4,
+      "NumAnnotatedFrame": 69,
+      "NumTotalFrame": 773,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1,
+        "4C": 2
+      }
+    },
+    {
+      "ID": "167",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI DONG VAN DOAN 57T^^^^",
+      "NumTotalDicom": 16,
+      "NumAnnotatedDicom": 6,
+      "NumAnnotatedFrame": 91,
+      "NumTotalFrame": 1017,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "4C": 2,
+        "2C": 2,
+        "3C": 2
+      }
+    },
+    {
+      "ID": "168",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI LE THI LINH 64T^^^^",
+      "NumTotalDicom": 13,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 99,
+      "NumTotalFrame": 892,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 2,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "169",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI VO TRONG HUY 33T^^^^",
+      "NumTotalDicom": 12,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 49,
+      "NumTotalFrame": 789,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "3C": 1,
+        "4C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "170",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI DAO VAN QUANG 47T^^^^",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 95,
+      "NumTotalFrame": 1181,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 2,
+        "3C": 2
+      }
+    },
+    {
+      "ID": "171",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI NGUYEN MANH CUONG 41T^^^^",
+      "NumTotalDicom": 17,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 77,
+      "NumTotalFrame": 851,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "4C": 1,
+        "3C": 2
+      }
+    },
+    {
+      "ID": "172",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI VU TUAN VINH 43T^^^^",
+      "NumTotalDicom": 12,
+      "NumAnnotatedDicom": 4,
+      "NumAnnotatedFrame": 75,
+      "NumTotalFrame": 725,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 2,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "173",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI LE VAN TUONG 72T^^^^",
+      "NumTotalDicom": 11,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 51,
+      "NumTotalFrame": 743,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "3C": 1,
+        "2C": 2
+      }
+    },
+    {
+      "ID": "174",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI NGUYEN THANH BINH 31T^^^^",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 91,
+      "NumTotalFrame": 966,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "3C": 2,
+        "4C": 1,
+        "2C": 2
+      }
+    },
+    {
+      "ID": "175",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI LE HONG BICH 65T^^^^",
+      "NumTotalDicom": 11,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 19,
+      "NumTotalFrame": 634,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "176",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI TRAN THI THUY 38T^^^^",
+      "NumTotalDicom": 14,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 85,
+      "NumTotalFrame": 920,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 2,
+        "3C": 2
+      }
+    },
+    {
+      "ID": "177",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI DINH THI HANH 42T^^^^",
+      "NumTotalDicom": 14,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 79,
+      "NumTotalFrame": 727,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 2,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "178",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "BENH VIEN E - TTTM",
+      "PatientName": "AI TRAN DUC LAM 65T^^^^",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 4,
+      "NumAnnotatedFrame": 49,
+      "NumTotalFrame": 760,
+      "DoctorList": [
+        "Vũ Thị Mai"
+      ],
+      "Label": {
+        "2C": 2,
+        "3C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "179",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Brux^Hermann",
+      "NumTotalDicom": 11,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 199,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "180",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Haffner^Sophie",
+      "NumTotalDicom": 26,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 8,
+      "NumTotalFrame": 397,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "181",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Engel^Peter",
+      "NumTotalDicom": 24,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 9,
+      "NumTotalFrame": 342,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "182",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Gauf^Evald",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 12,
+      "NumTotalFrame": 254,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "183",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Wiegand^Manfred",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 381,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "184",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Koepke^Elisabeth",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 383,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "185",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Mueller^Hans-Wiili",
+      "NumTotalDicom": 25,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 22,
+      "NumTotalFrame": 336,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "186",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Erginay^Sirin",
+      "NumTotalDicom": 21,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 176,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "187",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Kosiol^Janina",
+      "NumTotalDicom": 25,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 21,
+      "NumTotalFrame": 304,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "188",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Carpentieri^Carmela",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 24,
+      "NumTotalFrame": 301,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "189",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Kosiol^Janina",
+      "NumTotalDicom": 14,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 10,
+      "NumTotalFrame": 295,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "190",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Oehler^Uwe",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 326,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "191",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Eiermann^Monika",
+      "NumTotalDicom": 33,
+      "NumAnnotatedDicom": 2,
+      "NumAnnotatedFrame": 10,
+      "NumTotalFrame": 364,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "192",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Lion^Adolf",
+      "NumTotalDicom": 7,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 11,
+      "NumTotalFrame": 122,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "193",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Koc^Nizamettin",
+      "NumTotalDicom": 20,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 17,
+      "NumTotalFrame": 282,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "194",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Erginay^Sirin",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 376,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "195",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Schmidt^Hilde",
+      "NumTotalDicom": 21,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 297,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "196",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Paul^Dorit",
+      "NumTotalDicom": 16,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 307,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "197",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-0598-9877-2600-3621-9923",
+      "NumTotalDicom": 4,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 19,
+      "NumTotalFrame": 310,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "198",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-5274-5138-6350-6188-7146",
+      "NumTotalDicom": 5,
+      "NumAnnotatedDicom": 4,
+      "NumAnnotatedFrame": 71,
+      "NumTotalFrame": 427,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 3,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "199",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-5113-0732-7947-3188-2341",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 13,
+      "NumTotalFrame": 866,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "200",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-0602-0960-4171-5085-3855",
+      "NumTotalDicom": 8,
+      "NumAnnotatedDicom": 5,
+      "NumAnnotatedFrame": 103,
+      "NumTotalFrame": 559,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "3C": 3,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "201",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-4118-8998-7299-4113-8490",
+      "NumTotalDicom": 3,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 55,
+      "NumTotalFrame": 236,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "3C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "202",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-7311-3674-1654-2341-0599",
+      "NumTotalDicom": 5,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 48,
+      "NumTotalFrame": 516,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "PTS_S": 1,
+        "4C": 1,
+        "2C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "203",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-4644-6511-8940-6327-5503",
+      "NumTotalDicom": 3,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 60,
+      "NumTotalFrame": 233,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1,
+        "2C": 1,
+        "4C": 1
+      }
+    },
+    {
+      "ID": "204",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-0223-7058-3158-9853-1320",
+      "NumTotalDicom": 23,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 22,
+      "NumTotalFrame": 812,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "205",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-4027-0370-1437-2280-2902",
+      "NumTotalDicom": 11,
+      "NumAnnotatedDicom": 4,
+      "NumAnnotatedFrame": 70,
+      "NumTotalFrame": 551,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 2,
+        "NO": 1,
+        "4C": 1,
+        "3C": 1,
+        "PTS_S": 1,
+        "PTS_L": 1
+      }
+    },
+    {
+      "ID": "206",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "",
+      "PatientName": "DeID-2339-0130-0118-0911-7749",
+      "NumTotalDicom": 6,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 62,
+      "NumTotalFrame": 395,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1,
+        "4C": 1,
+        "3C": 1
+      }
+    },
+    {
+      "ID": "207",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Tabib^Faouzi",
+      "NumTotalDicom": 26,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 460,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "208",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Paul^Dorit",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 6,
+      "NumTotalFrame": 224,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "209",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Muench^Robert",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 7,
+      "NumTotalFrame": 259,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "210",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Schulz^Werner",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 370,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "2C": 1
+      }
+    },
+    {
+      "ID": "211",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Barlas^Hamdi",
+      "NumTotalDicom": 17,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 268,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    },
+    {
+      "ID": "212",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Nettesheim^Herbert",
+      "NumTotalDicom": 15,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 22,
+      "NumTotalFrame": 231,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "213",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Leschik^Gerhard",
+      "NumTotalDicom": 18,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 18,
+      "NumTotalFrame": 215,
+      "DoctorList": [
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1
+      }
+    },
+    {
+      "ID": "214",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Kraemer^Elisabeth",
+      "NumTotalDicom": 19,
+      "NumAnnotatedDicom": 3,
+      "NumAnnotatedFrame": 25,
+      "NumTotalFrame": 291,
+      "DoctorList": [
+        "Đỗ Doãn Bách",
+        "Lê Tuấn Thành"
+      ],
+      "Label": {
+        "4C": 1,
+        "3C": 1,
+        "2C": 1
+      }
+    },
+    {
+      "ID": "215",
+      "NumApproved": 0,
+      "NumRejected": 0,
+      "LastEdit": "10-10-2020",
+      "LastReview": "01-01-2020",
+      "Hospital": "St. Vinzenz-Hospital",
+      "PatientName": "Sentuerk^Cevat",
+      "NumTotalDicom": 11,
+      "NumAnnotatedDicom": 1,
+      "NumAnnotatedFrame": 5,
+      "NumTotalFrame": 244,
+      "DoctorList": [
+        "Đỗ Doãn Bách"
+      ],
+      "Label": {
+        "3C": 1
+      }
+    }
+  ]
+}
